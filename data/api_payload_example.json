@@ -1,0 +1,24 @@
+{
+  "use_llm": false,
+  "product": {
+    "name": "便携式桌面收纳充电站",
+    "brand": "DemoHome",
+    "category": "家居数码收纳",
+    "price": "129 元",
+    "target_user": "桌面线材多、经常给手机/耳机/手表充电的上班族和学生",
+    "pain_points": ["桌面线材凌乱", "多个设备充电时找不到合适位置"],
+    "selling_points": ["一站式收纳多设备", "线材隐藏更整洁", "分区摆放，拿取方便"],
+    "specs": {"材质": "ABS + 防滑硅胶垫", "是否含充电器": "不含"},
+    "platform": "淘宝 + 小红书 + 抖音",
+    "keywords": ["桌面收纳", "充电站", "线材整理"]
+  },
+  "competitors": [
+    {"title": "多功能桌面充电收纳盒 手机耳机手表一体整理", "price": "99", "rating": "4.7", "sales": "3000+", "review_summary": "外观简洁但空间偏小，线材隐藏不错"}
+  ],
+  "reviews": [
+    {"content": "桌面终于不乱了，手机耳机可以放一起，就是希望能再大一点。", "rating": "5", "source": "own_store"}
+  ],
+  "metrics": [
+    {"variant_id": "A", "title": "桌面线材凌乱救星", "exposure": 2200, "clicks": 176, "conversions": 18, "revenue": 2322, "spend": 420}
+  ]
+}
